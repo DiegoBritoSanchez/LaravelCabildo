@@ -19,7 +19,7 @@
     <!--=== main css ===-->
     <link rel="stylesheet" href="{{ asset('css/tailwind.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/custom.css') }}" />
-    <title>El Rincon de Isma </title>
+    <title>Diego' portfolio </title>
 
     <script>
         // On page load or when changing themes, best to add inline in `head` to avoid FOUC
