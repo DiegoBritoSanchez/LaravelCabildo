@@ -23,6 +23,7 @@ return new class extends Migration
             $table->foreignId('current_team_id')->nullable();
             $table->string('profile_photo_path', 2048)->nullable();
             $table->string('description')->nullable();
+            $table->string('github_url')->nullable();
             $table->string('linkdn_url')->nullable();
             $table->string('phone')->nullable();
             $table->string('address')->nullable();
